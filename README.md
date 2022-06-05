@@ -1,6 +1,6 @@
 # cs224n-winter21-solutions
 
-Stanford's CS224n Winter 21 coding assignments solutions.
+Stanford's CS224n winter 21 coding assignments solutions.
 
 I wasn't officially registered to the course. I solved the assignments for practice in my free time.
 
